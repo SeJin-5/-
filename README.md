@@ -49,9 +49,10 @@
        - 유저의 리뷰 기반으로 필터링
 
 ### 2.3 작품 제작에 사용된 도구
-Jupyter Notebook
-Visual Studio Code
-Kaggle, The Movie Database의 Dataset, Data, 공식
+Jupyter Notebook  
+Visual Studio Code  
+Kaggle의 Dataset과 Data와 공식  
+The Movie Database의 Dataset과 Data와 공식
 
 ### 2.4 제작 일정
 1주차 - 프로젝트 주제 선정  
